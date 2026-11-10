@@ -1,0 +1,11 @@
+{
+  "defaultBrowser": "com.google.Chrome",
+  "rules": [
+    {
+      "browser": "net.imput.helium",
+      "hosts": ["your-company.example"],
+      "urlPrefixes": ["github.com/your-org"],
+      "sourceApps": ["com.example.your-work-chat"]
+    }
+  ]
+}
